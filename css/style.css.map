@@ -1,8 +1,12 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "ACAA,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,IAAI;CAAG",
     "sources": [
-        "../sass/style.sass"
+        "../sass/style.sass",
+        "../sass/_general.sass",
+        "../sass/_media.sass",
+        "../sass/_mixins.sass",
+        "../sass/_variables.sass"
     ],
     "names": [],
     "file": "style.css"
